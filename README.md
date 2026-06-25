@@ -1,4 +1,4 @@
-# 🚀 SmartLayer AI Editor
+# 🚀 Shadow Editor
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)
@@ -12,7 +12,7 @@ Advanced Flutter-based AI Image Editor with Layer System, AI Background Removal,
 
 ## 📱 Overview
 
-SmartLayer AI Editor is a professional image editing application built using Flutter and Dart.
+Shadow Editor is a professional image editing application built using Flutter and Dart.
 
 The application follows a layer-based editing architecture similar to Photoshop, allowing users to manage multiple image, text and shape layers in real-time.
 
@@ -125,10 +125,10 @@ screenshots/home.png
 screenshots/editor.png
 ```
 
-### AI Features
+### Layer Panel
 
 ```text
-screenshots/ai_features.png
+screenshots/layers.png
 ```
 
 ---
