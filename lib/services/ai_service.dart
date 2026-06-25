@@ -95,8 +95,7 @@ static Future<String?> upscaleImage(
 
     headers: {
 
-      "Authorization":
-          "YOUR_HUGGINGFACE_TOKEN",
+      
 
       "Content-Type":
           "application/octet-stream",
