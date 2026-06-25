@@ -111,26 +111,17 @@ Designed as a portfolio-grade project, SmartLayer combines traditional image edi
 
 ## 📸 Screenshots
 
-### Home Screen
+## 📸 Home Screen
 
-Add screenshot here:
+![Home Screen](screenshots/home.jpg)
 
-```text
-screenshots/home.png
-```
+## 🎨 Editor Screen
 
-### Editor Screen
+![Editor Screen](screenshots/editor.jpg)
 
-```text
-screenshots/editor.png
-```
+## 🗂 Layer Panel
 
-### Layer Panel
-
-```text
-screenshots/layers.png
-```
-
+![Layer Panel](screenshots/layers.jpg)
 ---
 
 ## 📂 Project Structure
