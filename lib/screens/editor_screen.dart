@@ -2453,8 +2453,7 @@ static Future<String?> generateImage(
 
     headers: {
 
-      "Authorization":
-          "Bearer hf_hf_oJOpegdWfGXdoHHbYjTrOGctyXvpHWIJUP",
+      
 
       "Content-Type":
           "application/json",
