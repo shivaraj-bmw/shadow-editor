@@ -1,61 +1,192 @@
-# 🚀 Shadow Editor
+# 🚀 SmartLayer AI Editor
 
-A professional Flutter-based image editing application built using Dart and Flutter.
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Android-success)
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
+
+Advanced Flutter-based AI Image Editor with Layer System, AI Background Removal, AI Image Generation, Text Effects, Crop Tools, Filters and Gesture Controls.
+
+---
+
+## 📱 Overview
+
+SmartLayer AI Editor is a professional image editing application built using Flutter and Dart.
+
+The application follows a layer-based editing architecture similar to Photoshop, allowing users to manage multiple image, text and shape layers in real-time.
+
+Designed as a portfolio-grade project, SmartLayer combines traditional image editing features with AI-powered tools.
+
+---
 
 ## ✨ Features
 
-* Multi Layer Editing System
-* Drag, Resize, Rotate & Scale Objects
-* Layer Lock Support
-* Bring To Front / Bring To Back
-* Duplicate Layers
-* Advanced Text Editing
-* Text Gradients & Effects
-* Glow, Shadow & Stroke Effects
-* Image Filters
+### 🎨 Layer Management
+
+* Multi-Layer Editing System
+* Layer Lock
+* Layer Duplicate
+* Bring To Front
+* Send To Back
+* Layer Reordering
+* Layer Delete
+
+### 🖼 Image Editing
+
 * Real Crop Tool
-* AI Background Remover
+* Flip Horizontal / Vertical
+* Opacity Controls
+* Multiple Filters
+* Brightness Adjustment
+* Contrast Adjustment
+* Saturation Control
+* Blur Effects
+
+### 📝 Advanced Text Editor
+
+* Text Alignment
+* Custom Fonts
+* Bold & Italic
+* Underline Support
+* Text Size Control
+* Letter Spacing
+* Text Background Box
+* Text Box Radius
+* Text Padding
+
+### ✨ Text Effects
+
+* Gradient Text
+* Neon Effect
+* Gold Effect
+* Fire Effect
+* Cyber Effect
+* Shadow Monarch Effect
+* Glow Effect
+* Shadow Effect
+* Stroke Effect
+
+### 🤖 AI Features
+
 * AI Image Generator
 * AI Sticker Generator
-* Undo / Redo System
-* Shape Layers
-* Save & Share Images
+* AI Background Removal
 
-## 📸 Screenshots
+### 🖐 Gesture Controls
 
-### Home Screen
+* Drag Objects
+* Resize Objects
+* Pinch Zoom
+* Scale Controls
+* Real-Time Object Manipulation
 
-![Home](screenshots/home.jpg)
+### 💾 Export
 
-### Main Editor
+* Save To Gallery
+* Share Edited Images
+* Compare Original Image
 
-![Editor](screenshots/editor.jpg)
+### 🚀 Upcoming Features
 
-### Crop Tool
+* HD AI Upscaler
+* Magic Eraser
+* Manual Background Removal
+* Additional AI Editing Tools
 
-![Crop](screenshots/crop.jpg)
-
-### Layers Panel
-
-![Layers](screenshots/layers.jpg)
+---
 
 ## 🛠 Technologies Used
 
 * Flutter
 * Dart
 * ONNX Runtime
-* Image Processing
+* Image Processing Libraries
 * AI Models
+* Gesture Detection
+* Layer Architecture
 * State Management
 
-## 🚀 Upcoming Features
+---
 
-* HD Upscale
-* Magic Eraser
-* Manual Background Remover
+## 📸 Screenshots
+
+### Home Screen
+
+Add screenshot here:
+
+```text
+screenshots/home.png
+```
+
+### Editor Screen
+
+```text
+screenshots/editor.png
+```
+
+### AI Features
+
+```text
+screenshots/ai_features.png
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+lib/
+├── models/
+├── screens/
+├── widgets/
+├── services/
+├── utils/
+└── main.dart
+```
+
+---
+
+## 🎯 Purpose
+
+This project was developed to demonstrate:
+
+* Flutter Development
+* Mobile UI Design
+* Layer Architecture
+* State Management
+* AI Integration
+* Image Processing
+* Real World Application Development
+
+---
 
 ## 👨‍💻 Developer
 
-Shivaraj
+**Shivaraj**
 
-Cybersecurity Enthusiast | Developer | Networking Learner
+Cybersecurity Enthusiast • Flutter Developer • Networking Learner
+
+GitHub:
+https://github.com/shivaraj-bmw
+
+LinkedIn:
+https://www.linkedin.com/in/shivarajbmws1000rr
+
+---
+
+## ⭐ Support
+
+If you like this project:
+
+⭐ Star this repository
+
+🍴 Fork this repository
+
+📢 Share it with others
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
