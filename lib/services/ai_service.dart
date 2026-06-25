@@ -94,7 +94,6 @@ static Future<String?> upscaleImage(
     ),
 
     headers: {
-
       
 
       "Content-Type":
